@@ -43,6 +43,10 @@ The game features a visually appealing design with gradient backgrounds and smoo
 
 The game randomly generates a number between 1 and 10. Players input their guesses, and the game provides instant feedback. The score is tracked, and the game declares whether the player has won or lost.
 
+## Demo
+
+Check out the live demo [here](https://jeremiahranen7.github.io/Guess-the-number-game/).
+
 ## Acknowledgments
 
 - UI design inspiration: [https://www.youtube.com/@OnlineTutorialsYT]
